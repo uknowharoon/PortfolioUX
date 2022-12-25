@@ -1,0 +1,46 @@
+body {
+    background-color: #fff1e4;
+    font-family: 'Futura Hv BT', sans-serif;
+    font-size: 16px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    
+}
+
+div.logo {
+    /* border: 2px solid #000; */
+    padding: 18px;
+    margin: 5px;
+    /* background-color: #ffcc80; */
+    text-align: center;
+}
+
+div.homer {
+    /* border: 2px solid #000; */
+    padding: 15px;
+    margin: 5px auto;
+    width: 38%;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    /* border: 2px solid #000; */
+    border-radius: 10px;
+    padding: 18px;
+    margin: 5px auto;
+    /* background-color: #ffcc80; */
+    text-align: center;
+    width: 30%;
+}
+
+h2 {
+    /* border: 2px solid #000; */
+    border-radius: 10px;
+    padding: 18px;
+    margin: 5px auto;
+    /* background-color: #ffcc80; */
+    text-align: center;
+    width: 30%;
+}
